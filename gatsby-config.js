@@ -7,9 +7,9 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog by William JO',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      '개인 블로그',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -27,11 +27,11 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'William JO',
       email: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'https://github.com/blackpudding96',
       rss: '#',
       vk: '#',
     },
