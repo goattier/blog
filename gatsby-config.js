@@ -1,15 +1,15 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://blackpudding.netlify.com'
 
 module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by William JO',
+    title: 'HOME | blackpudding',
     subtitle:
-      '개인 블로그',
+      '고생했어. 오늘도.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -31,7 +31,7 @@ module.exports = {
       email: '#',
       telegram: '#',
       twitter: '#',
-      github: 'https://github.com/blackpudding96',
+      github: 'blackpudding96',
       rss: '#',
       vk: '#',
     },
