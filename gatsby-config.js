@@ -29,8 +29,8 @@ module.exports = {
     author: {
       name: 'William JO',
       email: '#',
-      telegram: '#',
-      twitter: '#',
+      //telegram: '#',
+      //twitter: '#',
       github: 'blackpudding96',
       rss: '#',
       vk: '#',
