@@ -28,12 +28,7 @@ module.exports = {
     ],
     author: {
       name: 'William JO',
-      email: '#',
-      //telegram: '#',
-      //twitter: '#',
       github: 'blackpudding96',
-      rss: '#',
-      vk: '#',
     },
   },
   plugins: [
