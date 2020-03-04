@@ -11,7 +11,7 @@ module.exports = {
     subtitle:
       '고생했어. 오늘도.',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'blackpudding',
     menu: [
       {
         label: 'Articles',
@@ -119,7 +119,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' },
+      options: { trackingId: 'UA-224340568' },
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
