@@ -1,16 +1,16 @@
 ---
-title: [백준] 11399번 : ATM
+title: [Baekjoon] 11399 : ATM
 date: "2020-03-06T16:34:00.000Z"
 layout: post
 draft: false
 path: "/posts/baekjoons/11399/"
-category: "백준"
+category: "Baekjoon"
 tags:
   - "Baekjoon"
   - "백준"
   - "알고리즘"
   - "algorithm"
-description: "백준 11399번 문제 : ATM"
+description: "백준 11399 문제 : ATM"
 ---
 # 11399번 : ATM
 
