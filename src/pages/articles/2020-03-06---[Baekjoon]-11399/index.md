@@ -1,17 +1,16 @@
 ---
 title: [Baekjoon] 11399 : ATM
-date: "2020-03-06T16:34:00.000Z"
+date: "2020-03-07T00:00:00.000Z"
 layout: post
 draft: false
 path: "/posts/baekjoons/11399/"
 category: "Baekjoon"
 tags:
   - "Baekjoon"
-  - "백준"
-  - "알고리즘"
-  - "algorithm"
+  - "Algorithm"
 description: "백준 11399 문제 : ATM"
 ---
+
 # 11399번 : ATM
 
 👉 [문제 바로가기](https://www.acmicpc.net/problem/11399)
