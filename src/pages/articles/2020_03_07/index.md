@@ -1,6 +1,6 @@
 ---
 title: [Baekjoon] 11399 : ATM
-date: "2020-03-07T00:00:00.000Z"
+date: "2020-03-07"
 layout: post
 draft: false
 path: "/posts/baekjoons/11399/"
