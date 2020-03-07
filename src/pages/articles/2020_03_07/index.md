@@ -1,5 +1,5 @@
 ---
-title: [Baekjoon] 11399 : ATM
+title: "[Baekjoon] 11399 : ATM"
 date: "2020-03-07"
 layout: post
 draft: false
