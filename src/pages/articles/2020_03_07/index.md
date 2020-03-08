@@ -8,7 +8,7 @@ category: "백준"
 tags:
   - "백준"
   - "Algorithm"
-description: "백준 11399 문제 : ATM"
+description: "백준 11399번 문제 : ATM"
 ---
 
 # 11399번 : ATM
