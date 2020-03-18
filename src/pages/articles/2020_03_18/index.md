@@ -22,7 +22,7 @@ description: "백준 11050번 문제 : 이항 계수 1"
 
 ## 푼 방법
 이항 계수 공식을 이용했다. :  
-$$ \begin{align} \label{x1} \binom{n}{k} = n C k = \frac{n!}{(n-k)!k!} (단, 0 \le k \le n) && \cdots && 1 \end{align} $$
+![이항 계수](./binomial_coefficient.png)
 
 설명이 잘 되어 있는 포스트가 있어 밑에 링크를 걸어 놓았다. 매우 중요한 내용이니 시간이 된다면 꼭 보길 바란다.
 
