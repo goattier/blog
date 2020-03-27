@@ -6,7 +6,6 @@ draft: false
 path: "/posts/data_structures/stack/"
 category: "Data Structure"
 tags:
-  - "백준"
   - "Data Structure"
 description: "Stack(스택)에 대해 알아보자."
 ---
