@@ -17,7 +17,9 @@ description: "Queue(큐)에 대해 알아보자."
  - 먼저 집어 넣은 데이터가 먼저 나오는 **FIFO(First In First Oout)구조**로 데이터를 저장하는 자료 구조이다; **가장 먼저 en_queue(push)된 값**이 **가장 처음 de_queue(pop)**된다.
  
 ![Queue(큐)](./queue_animation.gif)
-[^출처]
+출처[^1]
+
+[^1]: https://medium.com/@1991dharapatel/javascript-stacks-and-queues-136fabab8359
 
 ## Queue(큐) 구현
 Queue(큐)에는 **선형**과 **환형**이 존재한다. 선형 큐의 **크기가 제한되어 있고 de_queue 연산시 모든 데이터를 한 칸씩 옮겨야 하는 단점**을 보완하여 만들어진 환형 큐이지만, 환형 큐도 **큐의 길이를 유동적으로 늘릴 수 없는 단점**이 있기에 이 포스트에서는 lineked list(연결 리스트)로 queue(큐)를 구현한다.
@@ -195,6 +197,3 @@ int main() {
 https://ko.wikipedia.org/wiki/%ED%81%90_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)  
 https://gmlwjd9405.github.io/2018/08/02/data-structure-queue.html  
 https://galid1.tistory.com/483  
-
-
-[^출처]: https://medium.com/@1991dharapatel/javascript-stacks-and-queues-136fabab8359
