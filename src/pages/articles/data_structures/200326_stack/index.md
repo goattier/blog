@@ -18,7 +18,8 @@ description: "Stack(스택)에 대해 알아보자."
  - **LIFO(Last In First Oout)연산** 선형구조로 되어 있다; 가장 마지막에 push된 값이 가장 처음 pop된다.
  
 ![Stack(스택)](./stack_animation.gif)
-[^출처]
+출처[^1]
+
 
 ## Stack(스택) 구현
 Stack(스택) 구현 시 다음의 메소드들은 꼭 필요하다.
@@ -262,4 +263,4 @@ int main() {
 }
 ~~~
 
-[^출처]: https://medium.com/@1991dharapatel/javascript-stacks-and-queues-136fabab8359
+[^1]: https://medium.com/@1991dharapatel/javascript-stacks-and-queues-136fabab8359
