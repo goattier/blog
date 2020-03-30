@@ -20,6 +20,7 @@ description: "Stack(스택)에 대해 알아보자."
 ![Stack(스택)](./stack_animation.gif)
 출처[^1]
 
+[^1]: https://medium.com/@1991dharapatel/javascript-stacks-and-queues-136fabab8359
 
 ## Stack(스택) 구현
 Stack(스택) 구현 시 다음의 메소드들은 꼭 필요하다.
@@ -262,5 +263,3 @@ int main() {
 	return 0;
 }
 ~~~
-
-[^1]: https://medium.com/@1991dharapatel/javascript-stacks-and-queues-136fabab8359
