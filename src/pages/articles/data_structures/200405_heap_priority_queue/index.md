@@ -256,7 +256,7 @@ public:
 								break;
 						}
 					}
-					else if { // both children exist
+					else { // both children exist
 						if (data_arr[idx*2] < data_arr[idx*2+1] && data_arr[idx] > data_arr[idx*2]) { // left child < right child && current node > left child
 							std::swap(data_arr[idx], data_arr[idx*2]);
 							idx *= 2;
