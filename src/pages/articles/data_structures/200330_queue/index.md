@@ -29,11 +29,10 @@ Queue(큐) 구현 시 다음의 메소드들은 꼭 필요하다.
  1. **en_queue(data) = 삽입(push)** : data node를 queue에 push(삽입)한다.
  2. **de_queue() = 삭제(pop)** : queue(큐)의 front(head) node를 pop(삭제)하고, 가장 앞에 있는 node를 front(head) node로 지정한다.
  
-추가적으로 queue가 비었는지 차있는지 확인해주는 is_empty()메소드와, front(head) & rear(tail) 노드의 데이터를 반환해주는 get_front() & get_rear()메소드들과 같이, 상황에 맞게 만들어진 사용자 정의 메소드들이 많이 쓰인다.
+추가적으로 queue가 비었는지 차있는지 확인해주는 is_empty()메소드와, front(head) & rear(tail) node의 data를 반환해주는 get_front() & get_rear()메소드들과 같이, 상황에 맞게 만들어진 사용자 정의 메소드들이 많이 쓰인다.
 
 
 ## Queue(큐) linked list 구현 코드 (C++)
-
 ~~~c
 #include <iostream>
 
