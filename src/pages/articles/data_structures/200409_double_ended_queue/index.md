@@ -1,5 +1,5 @@
 ---
-title: "[자료구조] Deque(덱) : Double Ended Queue
+title: "[자료구조] Deque(덱) : Double Ended Queue"
 date: "2020-04-09"
 layout: post
 draft: false
