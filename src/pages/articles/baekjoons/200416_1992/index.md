@@ -91,7 +91,7 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://m.blog.naver.com/PostView.nhn?blogId=qkfkf123&logNo=60179360083&proxyReferer=https:%2F%2Fwww.google.com%2F  
 https://chessire.tistory.com/entry/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%ACQuad-tree  
 https://minho331.tistory.com/6

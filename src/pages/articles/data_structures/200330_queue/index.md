@@ -192,7 +192,7 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://ko.wikipedia.org/wiki/%ED%81%90_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)  
 https://gmlwjd9405.github.io/2018/08/02/data-structure-queue.html  
 https://galid1.tistory.com/483  

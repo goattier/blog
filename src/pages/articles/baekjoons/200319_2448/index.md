@@ -81,5 +81,5 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://m.blog.naver.com/alwaysneoi/100135570568

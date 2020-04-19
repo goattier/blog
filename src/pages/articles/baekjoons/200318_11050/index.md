@@ -50,6 +50,6 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://shoark7.github.io/programming/algorithm/3-ways-to-get-binomial-coefficients
 https://m.blog.naver.com/PostView.nhn?blogId=dalsapcho&logNo=20144677614&proxyReferer=https%3A%2F%2Fwww.google.com%2F

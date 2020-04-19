@@ -79,7 +79,7 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://new93helloworld.tistory.com/220  
 https://galid1.tistory.com/507  
 https://coding-all.tistory.com/2  

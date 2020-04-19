@@ -75,5 +75,5 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://ledgku.tistory.com/61

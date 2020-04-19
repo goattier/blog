@@ -109,5 +109,5 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://namu.wiki/w/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98

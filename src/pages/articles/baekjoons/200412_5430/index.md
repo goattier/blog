@@ -233,6 +233,6 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://psychoria.tistory.com/666  
 https://geekhub.tistory.com/63

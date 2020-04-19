@@ -78,6 +78,6 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://hcr3066.tistory.com/26  
 https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%B0%A8%EB%B3%84_%EB%8C%80%EC%9E%85_%EA%B3%B5%EA%B2%A9

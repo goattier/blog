@@ -329,7 +329,7 @@ int main() {
 ~~~
 
 
-### 참고 사이트  
+### References
 https://velog.io/@pa324/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90-1xk1cw46t2  
 https://www.crocus.co.kr/379  
 https://medium.com/jiwon-bae/data-structure-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90%EC%99%80-%ED%9E%99-c01947539d3d  

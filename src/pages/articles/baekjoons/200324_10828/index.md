@@ -111,7 +111,7 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://dpdpwl.tistory.com/68  
 http://blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221212462913&categoryNo=88&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search  
 https://blockdmask.tistory.com/45  

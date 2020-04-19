@@ -63,5 +63,5 @@ int main() {
 }
 ~~~
 
-### 참고 사이트
+### References
 https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95
