@@ -1,5 +1,5 @@
 ---
-title: "[알고리즘] Stack(스택)"
+title: "[알고리즘] Binary Search(이진 탐색)"
 date: "2020-04-19"
 layout: post
 draft: false
@@ -22,8 +22,7 @@ description: "Binary Search(이진 탐색)에 대해 알아보자."
 ![Binary Search(이진 탐색)](./binary_and_linear_search_animations.gif)
 출처[^1]
 
-[^1]: 
-https://blog.penjee.com/binary-vs-linear-search-animated-gifs/
+[^1]: https://blog.penjee.com/binary-vs-linear-search-animated-gifs/
 
 ## Binary Search(이진 탐색) 구현
 Binary Search(이진 탐색)은 **Recursive(재귀)** 또는 **Iterative(반복)** 으로 구현 가능하다. 보편적으로 **재귀보다는 반복문이 스택으로 인한 오버헤드가 없어서 더 선호되는 편**이다.
