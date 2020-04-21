@@ -23,12 +23,12 @@ description: "백준 1629번 문제 : 곱셈"
 ## 푼 방법
 이 문제를 풀 때 주의해야 할 사항이 2가지가 있다.
 
- 1. 시간 초과 (brute force 알고리즘 사용 시)
- 2. 자료형 overflow
+ 1. **시간 초과 (brute force 알고리즘 사용 시)**
+ 2. **자료형 overflow**
  
-첫번째로, int 자료형의 MAX 범위까지 연산 횟 수(=B)를 받을 수 있기 때문에 O(N) : brute force 알고리즘으로 코드를 작성하면 TLE(Time Limit Exceeded)가 날 것 이다. 그래서 우리는 분할 정복 알고리즘을 사용해서 O(logN)의 시간으로 단축시켜야 한다.
+첫번째로, int 자료형의 MAX 범위(2,147,483,647)까지 연산 횟수(B)를 입력 받을 수 있기 때문에 **O(N)의 복잡도**를 갖는 **Brute Force 알고리즘**으로 코드를 작성하면 **TLE(Time Limit Exceeded)** 가 발생한다. 그래서 **Divide and Conquer(분할정복) 알고리즘**을 사용해서 **O(logN)의 시간복잡도**로 연산 횟수를 단축시켜야 통과할 수 있다.
 
-두번째로, unsigned long long int의 자료형을 사용한다 하더라도 큰 자연수(=A)를 받아 몇 번 곱해버리면 overflow가 나기에, 우리는 연산을 진행할 때마다 mod C 를 해주어야 overflow 없이 결과 값을 얻을 수 있다.
+두번째로, unsigned long long int의 자료형을 사용한다 하더라도 큰 자연수(A)를 받아 몇 번 곱해버리면 **자료형 overflow**가 나기에, 우리는 **연산을 진행할 때마다 mod(modulo) C를 해주어야 overflow없이 결과 값을 얻을 수 있다.**
 
 
 ## 내 정답 코드 (C++)
@@ -42,9 +42,9 @@ int daq(ull result, const ull& B, const ull& C) {
 	if (B == 1)
 		return result % C;
 	
-	if (B % 2 == 0)
+	if (B % 2 == 0) // even # of B
 		return daq((result * result) % C, B/2, C);
-	else
+	else // odd # of B
 		return ((daq((result * result) % C, B/2, C)) * result) % C;
 }
 
