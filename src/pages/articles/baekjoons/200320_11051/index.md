@@ -22,7 +22,7 @@ description: "백준 11051번 문제 : 이항 계수 2"
 
 - `동적계획법(Dynamic Programming)` : **복잡한 문제를 간단한 여러 개의 문제로 나누어 푸는 알고리즘**; 반복(중복)되는 작은 문제의 결과 값이 항상 같을 때 쓰인다. (분할정복(Divide and Conquer)과의 차이점)
 
-- `메모이제이션(Memoization)` : 동적계획법에서 많이 쓰이는 테크닉으로, **계산된 값을 배열(캐시 : cache)에 저장(캐싱 : caching)한 후 필요한 경우 계산없이 호출**하여 쓰는 방법.
+- `메모이제이션(Memoization)` : 동적계획법에서 많이 쓰이는 테크닉으로, **계산된 값을 배열(캐시 : cache)에 저장(캐싱 : caching)한 후 필요한 경우 계산없이 호출**하여 쓰는 방법. (= top down with recursive function <-> bottom up dp)
 
 - `파스칼의 삼각형(Pascal's triangle)` : 이항계수를 삼각형 모양의 기하학적 형태로 배열한 구조
 ![파스칼의 삼각형](./Pascals_triangle.png)
