@@ -49,3 +49,8 @@ int main() {
 	return 0;
 }
 ~~~
+
+### References
+https://m.blog.naver.com/PostView.nhn?blogId=junhyuk7272&logNo=221247061276&proxyReferer=https:%2F%2Fwww.google.com%2F  
+https://bhsmath.tistory.com/17  
+https://j1w2k3.tistory.com/434
